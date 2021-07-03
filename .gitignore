@@ -1,0 +1,7 @@
+# Python
+__pycache__/
+.py[cd]
+
+# Local
+dev[_-].*
+.vscode/
