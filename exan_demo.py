@@ -36,4 +36,3 @@ def solution(A):
 solution([1,2,3])
 solution([-1, -3])
 solution([1, 3, 6, 4, 1, 2])
-"""
